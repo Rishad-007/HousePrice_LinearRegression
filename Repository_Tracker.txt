@@ -1,0 +1,6 @@
+This file contains the Linear Regression from scratch of Machine learning. 
+how here did it: 
+    - Selected a dataset
+    - Preprocessed the data
+    - Feature Engineering
+    - Started fitting the data from scratch
